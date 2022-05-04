@@ -1,0 +1,18 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url("background.jpg");
+}
+
+.accordion-body {
+    background: #1e2225;
+    color: white;
+}
+
+.accordion-button.collapsed {
+    background: #212529;
+    color: white;
+  }
+

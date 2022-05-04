@@ -1,0 +1,3 @@
+On holiday? Forgotten medication? Need to see a doctor? register here as a temporary resident.
+Need to book an appointment for somebody else? Asks for your details, asks for their details, asks for their contact information, brief description of why acting on their behalf, sends them a text requesting consent then proceed once persmission received.
+Select which doctor you want to book
